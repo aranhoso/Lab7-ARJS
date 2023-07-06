@@ -1,0 +1,11 @@
+Model Information:
+* title:	MeetMat Terrorist #MMAB2019
+* source:	https://sketchfab.com/3d-models/meetmat-terrorist-mmab2019-0c70cfc9a2c94829bebf670dfa93bad9
+* author:	MatiasMuñoz (https://sketchfab.com/soldiermathi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MeetMat Terrorist #MMAB2019" (https://sketchfab.com/3d-models/meetmat-terrorist-mmab2019-0c70cfc9a2c94829bebf670dfa93bad9) by MatiasMuñoz (https://sketchfab.com/soldiermathi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
